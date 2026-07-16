@@ -35,7 +35,7 @@
     },
     "win": {
       "target": "portable",
-      "icon": "build/icon.ico"
+      "icon": "icon/icon.ico"
     },
     "files": [
       "dist/**/*",
