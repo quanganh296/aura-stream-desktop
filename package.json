@@ -34,7 +34,8 @@
       "output": "D:\\MyMusicApp\\aurastream-dist-desktop"
     },
     "win": {
-      "target": "portable"
+      "target": "portable",
+      "icon": "icon/icon.png"
     },
     "files": [
       "dist/**/*",
